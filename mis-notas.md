@@ -21,3 +21,14 @@
 - Yo he estudiado mucho para el examen. || I've studied a lot for the exam.
 - La television es bastante aburrida a veces || TV is quite boring sometimes.
 - He estado alli antes || I've been there before.
+- Esos hombres van a robar ese carro! || Those men are going to steal that car!
+- Que has comido hoy? || What have you eaten today?
+- Tu vas a robar mi corazon!! || You are going to steal my heart!!
+- Que has aprendido en este viaje? || What have you learned on this trip?
+- Ella todavia no ha aprendido a usar la computadora || She hasn't learned to use the computer yet.
+- Quiero montar ese caballo salvaje || I want to ride that wild horse.
+- Hemos recibido buenas noticias || We have recieved good news.
+- Muchos hombres han ido a la guerra || Many men have gone to war.
+- No hemos recibido tu paquete todavia || We haven't recieved your package yet.
+- Hola, Rubén. Soy Omar. Todavía no he recibido el correo electrónico del jefe. Lo necesito, es muy importante. || Hi, Ruben. It's Omar, I haven't recieved the boss email yet. I need it, It's very important.
+- No podemos vivier sin electricidad || We can't live without electricity.
