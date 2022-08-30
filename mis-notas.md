@@ -1,6 +1,6 @@
 - Hola!, me llamo Ahmed Elgaidi. || Hello, my name is Ahmed Elgaidi.
 - Y tengo viente dos (22) anos. || I have 22 years.
-- Yo he aprendido mucho en Duolingo>  || I have learned a lot on Duolingo.
+- Yo he aprendido mucho en Duolingo> || I have learned a lot on Duolingo.
 - Yo ya he comido, gracias. || I have already eaten, thanks.
 - Yo tengo hambre || I'm hungry.
 - Tu no has aprendido nada este ano || You haven't learned anything this year.
@@ -13,3 +13,11 @@
 - Pedro llamo a la policia porque un hombre ha robado en su casa || Pedro called the pollice officer because someone has stolen his house.
 - Aquel hombre ha robado mi bicileta || That man has stolen my bike.
 - Este fuego es un peligro || This fire is a danger.
+- El presidente esta bastante loco || The president is quiet crazy.
+- Si, he estado en ese restaurante. Es excelente! || Yes, I've been to that restaurant. It's excellent!
+- No he estudiado esto antes || I havn't studied this before.
+- Donde has trabajado este ano? || Where have you worked this year?
+- Tienes que estar listo para la reunion de hoy. Donde has estado toda la manana? || You have to be ready for hte today's meeting. where have you been all the morning?
+- Yo he estudiado mucho para el examen. || I've studied a lot for the exam.
+- La television es bastante aburrida a veces || TV is quite boring sometimes.
+- He estado alli antes || I've been there before.
