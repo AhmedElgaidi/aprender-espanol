@@ -2,3 +2,14 @@
 - Y tengo viente dos (22) anos. || I have 22 years.
 - Yo he aprendido mucho en Duolingo>  || I have learned a lot on Duolingo.
 - Yo ya he comido, gracias. || I have already eaten, thanks.
+- Yo tengo hambre || I'm hungry.
+- Tu no has aprendido nada este ano || You haven't learned anything this year.
+- Hoy he comido mucho || Today, I've eaten a lot.
+- Ese es un problema nacional || That's a national problem.
+- Hemos trabajado en la radio nacional || We have worked at the national radio.
+- El policia no ha llegado todavia || The police officer hasn't arrived yet.
+- Algo terrible puede ocurrir || Something terrible could happen.
+- Alguien ha robado las sortijas || Someone has stolen the rings.
+- Pedro llamo a la policia porque un hombre ha robado en su casa || Pedro called the pollice officer because someone has stolen his house.
+- Aquel hombre ha robado mi bicileta || That man has stolen my bike.
+- Este fuego es un peligro || This fire is a danger.
