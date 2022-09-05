@@ -33,3 +33,18 @@
 - Hola, Rubén. Soy Omar. Todavía no he recibido el correo electrónico del jefe. Lo necesito, es muy importante. || Hi, Ruben. It's Omar, I haven't recieved the boss email yet. I need it, It's very important.
 - No podemos vivier sin electricidad || We can't live without electricity.
 - Estas seguro? La directora dijo que no vino ayer || Are you sure? the director said she didn't come yesterday.
+- Susana es una excelente obrera || Susana is an excellent worker.
+- La jefa ha comido pollo varias veces || The manager has eatan chicken many times.
+- Yo no he trabajado en el proyecto todavía || I haven't worked on the project yet.
+- Un obrero ha estado en peligro en la mañana. tu también has estado en peligro? || A worker has been in danger in the morning. have you been in danger?.
+- Nadie esta en peligor || No one is in danger.
+- El obrero ha apprendido mucho de su jefe || The worker has learned a lot from his boss.
+- El no ha aprendido eso todavia || He hasn't learned that yet.
+- Las obreras van a trabajar mucho este mes || The workers are going  to work a lot this month.
+- Roberto ha aprendido unas palabras en espanol hoy. yo he aprendido oraciones con Duolingo || Roberto has learned many words in Spanish today. I have learned sentences with Duolingo.
+- quiero montar ese caballo salvaje || I want to ride that wild horse.
+- Dos policias han ido a buscar al oso. Toda la aldea tiene miedo || Two police officers have been looking for a bear. All the village are afriad.
+- Tan pocos policias? No es un osos salvaje? || So few police officers? Isn't it a wild bear?
+- Yo he vivido dos anos con animales salvajes en la jungla || I've lived two years with wild animals in the jungle.
+- Los ninos no han ido a la escuela hoy. || The children haven't gone to the school today.
+-
