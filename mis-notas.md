@@ -32,3 +32,4 @@
 - No hemos recibido tu paquete todavia || We haven't recieved your package yet.
 - Hola, Rubén. Soy Omar. Todavía no he recibido el correo electrónico del jefe. Lo necesito, es muy importante. || Hi, Ruben. It's Omar, I haven't recieved the boss email yet. I need it, It's very important.
 - No podemos vivier sin electricidad || We can't live without electricity.
+- Estas seguro? La directora dijo que no vino ayer || Are you sure? the director said she didn't come yesterday.
