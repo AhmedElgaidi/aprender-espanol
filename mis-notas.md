@@ -47,4 +47,7 @@
 - Tan pocos policias? No es un osos salvaje? || So few police officers? Isn't it a wild bear?
 - Yo he vivido dos anos con animales salvajes en la jungla || I've lived two years with wild animals in the jungle.
 - Los ninos no han ido a la escuela hoy. || The children haven't gone to the school today.
--
+- El fuego ocurrió por un problema de la electricidad. || The fire occured because of electricity problem.
+- Ellos han trabajado en los parques nacionales. || They have worked at the national parks.
+- Ella quiere sentarse cerca del fuego. || she wants to sit close to the fire.
+- 
