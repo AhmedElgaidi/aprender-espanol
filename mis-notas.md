@@ -50,4 +50,8 @@
 - El fuego ocurrió por un problema de la electricidad. || The fire occured because of electricity problem.
 - Ellos han trabajado en los parques nacionales. || They have worked at the national parks.
 - Ella quiere sentarse cerca del fuego. || she wants to sit close to the fire.
-- No, todavía no he comido y Luis tampoco. Voy a hacer unos sándwiches con jamón y queso. ¿Tú qué quieres? || No, I haven't eaten yet and luis neither. I'm goint o do some cheese burger sandwiches, what do you want? 
+- No, todavía no he comido y Luis tampoco. Voy a hacer unos sándwiches con jamón y queso. ¿Tú qué quieres? || No, I haven't eaten yet and luis neither. I'm goint o do some cheese burger sandwiches, what do you want?
+- Él nunca ha trabajado con nosotros. || He has never worked with us.
+- Por qué no has ido a trabajar? || Why haven't you gone to work?
+- Han recibido un correo electrónico y son malas noticias. || They've gotten an email, and it's bad news.
+-
