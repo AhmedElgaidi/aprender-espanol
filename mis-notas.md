@@ -54,4 +54,8 @@
 - Él nunca ha trabajado con nosotros. || He has never worked with us.
 - Por qué no has ido a trabajar? || Why haven't you gone to work?
 - Han recibido un correo electrónico y son malas noticias. || They've gotten an email, and it's bad news.
--
+- Es un dia terrible || It's a terrible day.
+- El presidente ha llegado a Mexico. || The president has arrived in Mexico.
+- Ese es un problema nacional || This is a national problem.
+- Los ingenieros no han llegado todavia || The engineers haven't arrived yet.
+- 
