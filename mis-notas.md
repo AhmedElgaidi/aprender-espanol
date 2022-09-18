@@ -58,4 +58,6 @@
 - El presidente ha llegado a Mexico. || The president has arrived in Mexico.
 - Ese es un problema nacional || This is a national problem.
 - Los ingenieros no han llegado todavia || The engineers haven't arrived yet.
+- María, hay un carro extraño enfrente de nuestra casa y ha estado ahí todo el día. Estoy preocupado. || Maria, there is an expensive car in front of our house and it has been there all the day. I'm worried.
+- He estudiado dos idiomas este año y antes hablaba japonés bastante bien. || I have estudied two languages this year and spoke japanese very good before.
 - 
