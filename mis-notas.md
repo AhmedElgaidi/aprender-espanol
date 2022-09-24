@@ -76,4 +76,16 @@
 - Pienso que deberías ser un actor. || I think you should be an actor.
 - Hoy una cliente estaba enojada porque el vestido no tenia precio || Today a client/ customer was mad/ angry because a dress didn't have a price on it.
 - Los actores estaban trabajando en el teatro. || the actors were working at the theater/ cinema.
+- En la computadora tengo unos documentos que necesito en papel. Tenemos una impresora? || In the computer we have some documents that we need in paper. Do we have a printer?
+- Él estaba buscando papel para la impresora. || He was looking for paper for the printer.
+- Necesito descargar un nuevo programa en la computadora. || i need to download a new program on the computer.
+- Necesito descargar este documento. || I need to download this document.
+- ¡Guau! Tú puedes escribir muy rápido en el teclado de la computadora. || wow, you can write very fast with the computer keyboard.
+- Tuve que llamar al departamento de información. || I had to call the information department.
+- Hoy llego un nuevo colega a nuestro departamento. El es muy divertido || Today a new colleague arrived to work in our department. He is really fun.
+- El nuevo conductor maneja muy bien el autobús de la empresa. || the new driver drives the buisness bus very good.
+- ¿Quién era el conductor de ese carro? || Who was the driver of that car?
+- Necesitamos más personal en la compañía porque tenemos mucho trabajo y necesitamos más ayuda. || We need more staff/ workers in the company because we have a lot of work and need much help.
+- Ellos ganaban cien mil dólares al año. || They used to earn 100 thousands a year.
+- ¿Cuánto dinero ganabas en esa compañía? || How much money did you use to earn at that company?
 - 
