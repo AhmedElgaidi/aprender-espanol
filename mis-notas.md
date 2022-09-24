@@ -60,4 +60,20 @@
 - Los ingenieros no han llegado todavia || The engineers haven't arrived yet.
 - María, hay un carro extraño enfrente de nuestra casa y ha estado ahí todo el día. Estoy preocupado. || Maria, there is an expensive car in front of our house and it has been there all the day. I'm worried.
 - He estudiado dos idiomas este año y antes hablaba japonés bastante bien. || I have estudied two languages this year and spoke japanese very good before.
+- Yo soy ingeniero y mi esposa es maestra de ingles, y tu? Cual es tu ocupacion? || I'm engineer and my wife is an English teacher, and you? What is your professional work (Job)?
+- Tienes que buscar otra ocupacion || You have to look for another job
+- Me hermana quiere ganar mas dinero en su trabajo porque va a tener un bebe || My sister wants to gain/ earn more money in her job because she is going to have a baby.
+- Puedes ganar mucho dinero con esta pelicula || You can earn a lot of money with this movie
+- La actriz estaba comiendo al almuerzo. || The actress was eating lunch.
+- El actor estaba mirando una película. || The actor was watching a movie.
+- El recepcionista estaba aprendiendo sobre el trabajo. || The receptionist was learning about the job.
+- El recepcionista hablaba muy alto y todo el mundo lo miraba. || the receptionist was talking very loud and everybody was looking at.
+- En serio? Y que estaba diciendo? || Are you serious? And what was she saying?
+- La jefa estaba comiendo con los clientes. || The boss was eating with  the clients.
+- Cuando entré, los clientes estaban en mi oficina. || When i came in, the clients were in my office.
+- Que estaban haciendo aqui? Quieren hablar contigo? || What were they doing here? Did they want to speak with you?
+- Pienso que deberías trabajar más horas. || I think that you should work more hours.
+- Pienso que deberías ser un actor. || I think you should be an actor.
+- Hoy una cliente estaba enojada porque el vestido no tenia precio || Today a client/ customer was mad/ angry because a dress didn't have a price on it.
+- Los actores estaban trabajando en el teatro. || the actors were working at the theater/ cinema.
 - 
