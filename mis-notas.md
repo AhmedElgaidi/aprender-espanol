@@ -88,4 +88,18 @@
 - Necesitamos más personal en la compañía porque tenemos mucho trabajo y necesitamos más ayuda. || We need more staff/ workers in the company because we have a lot of work and need much help.
 - Ellos ganaban cien mil dólares al año. || They used to earn 100 thousands a year.
 - ¿Cuánto dinero ganabas en esa compañía? || How much money did you use to earn at that company?
+- La cámara del fotógrafo es muy buena y él toma fotos excelentes. || the camera of the photographer is very good and he takes excelent photos.
+- El fotógrafo estaba usando su cámara. || The photographer was using his camera
+- ¿Tú descargaste el programa? || did you download the program?
+- Los limpiadores no estaban trabajando anoche. || The cleaners weren't working last night.
+- La secretaria estaba comprando un pizarrón. || The secretary was buying a whiteboard.
+- Yo estaba limpiando mi portátil. || I was cleaning my laptop.
+- Estaba limpiando la officina y un trabajador entro con los zapatos sucios || I was cleaning the office, and a worker came in with dirty shoes on!
+- Ayer descargué un programa nuevo. || Yesteraday i downloaded a new program.
+- Yo descargué la carpeta con fotos ayer. || I downloaded the folder with photos yesterday.
+- ¿Por qué necesitan copiar los documentos? || Why do they need to copy the documents?
+- Puedes copiar este documento? || Can you copy this document?
+- La secretaria estaba descargando los archivos || The secretary was downloading the files.
+- La limpiadora estaba usando agua y jabón. || the cleaner was using soap and water.
+- No puedo copiar las fotos || I can't copy the photos.
 - 
