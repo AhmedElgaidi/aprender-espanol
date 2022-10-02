@@ -92,7 +92,7 @@
 - El fotógrafo estaba usando su cámara. || The photographer was using his camera
 - ¿Tú descargaste el programa? || did you download the program?
 - Los limpiadores no estaban trabajando anoche. || The cleaners weren't working last night.
-- La secretaria estaba comprando un pizarrón. || The secretary was buying a whiteboard.
+- La secretaria estaba comprando un pizarrón. ||ooooooooooooo The secretary was buying a whiteboard.
 - Yo estaba limpiando mi portátil. || I was cleaning my laptop.
 - Estaba limpiando la officina y un trabajador entro con los zapatos sucios || I was cleaning the office, and a worker came in with dirty shoes on!
 - Ayer descargué un programa nuevo. || Yesteraday i downloaded a new program.
