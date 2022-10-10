@@ -102,4 +102,17 @@
 - La secretaria estaba descargando los archivos || The secretary was downloading the files.
 - La limpiadora estaba usando agua y jabón. || the cleaner was using soap and water.
 - No puedo copiar las fotos || I can't copy the photos.
-- 
+- Tu descargaste el programa? || Did you download the program?
+- La limpiadora estaba usando agua y jabón. || The cleaner was using soap and water.
+- Tengo que copiar estos archivos. || I have to copy these files.
+- La secretaria estaba limpiando su escritorio || The secretary was cleaning her desk.
+- Las fotógrafas estaban preparando sus cámaras. || The photographers were preparing their cameras.
+- El profesor estaba escribiendo en el pizarrón || The professor was writing on the whiteboard.
+- Las limpiadoras estaban limpiando los pisos || The cleaners were cleaning the floors.
+- Tengo que copiar estos archivos || i have to copy these files.
+- Las cantantes estaban saliendo del teatro. || The singers were leaving the theatre.
+- Yo estaba aprendiendo física. || I was learning physics.
+- De verdard? Que estaba haciendo ahi? || Really? what was he doing there?
+- Yo era recepcionista, pero hoy es mi último día en la empresa. ¡Quiero campiar de ocupación! || I was a receptionist, buy today is my las day in the buisness, I want to change my job.
+- Me interesa saber más sobre esta ocupación. || I'm interested in knowing more about this occupation.
+- Ah, yo no tenia idea de esta problema. || Ah, I had no idea about that problem.
