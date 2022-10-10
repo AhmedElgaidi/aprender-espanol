@@ -116,3 +116,6 @@
 - Yo era recepcionista, pero hoy es mi último día en la empresa. ¡Quiero campiar de ocupación! || I was a receptionist, buy today is my las day in the buisness, I want to change my job.
 - Me interesa saber más sobre esta ocupación. || I'm interested in knowing more about this occupation.
 - Ah, yo no tenia idea de esta problema. || Ah, I had no idea about that problem.
+- Cuando era joven, ella era conductora de autobús. || When I was young, she was a bus driver.
+- Me llevé el teclado de tu computadora porque lo quiero reparar. Más tarde te lo doy. || I took your computer keyboard because i wanted to repair it. Later, I'll give it to you.
+- 
