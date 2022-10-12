@@ -125,4 +125,6 @@
 - por que no me lo prestas? || Why don't you lend it to me?
 - ¿No ves las diferencias? || Don't you see the differences?
 - ¿Qué consejo vas a darme? || what advice are you going to give me?
+- Tengo las cometas y te las voy a traer mañana. || I have the kites and I'm going to bring them to you tomorrow.
+- Esa gorra es mía pero te la voy a prestar. || That hat is mine but I'm going to lend it to you.
 - 
