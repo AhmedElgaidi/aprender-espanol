@@ -146,4 +146,31 @@
 - He estado ahí antes || I have been there before.
 - El rompecabezas es mío y tienes que traérmelo. || The puzzle is mine and you have to bring it to me.
 - Tengo hambre, yo no he comido todavía, ¿ tu has comido algo? || I'm hungry, I haven't eaten yet, have you eaten something?
+- Los ninos no han ido a la escuela hoy. || The kids/ children haven't gone to school today.
+- El nunca ha trabajado con nosotras. || He has never worked with us.
+- A mi conejo le gusta coleccionar dulces. || My rabbit likes to collect sweets.
+- la maestra va a explicar otra vez || The teacher is going to explain again.
+- A mí me dijo claramente la verdad, pero al profesor le dijo otra cosa. || He clearly told me the truth, but he told the professor something else.
+- Nosotras queremos ir a esquiar mañana || We want to go skiing tomorrow.
+- Navegué durante el día y la noche. || I sailed during the day and night.
+- Les expliqué las instrucciones. || I explained the instructions to them.
+- Muchos hombres han ido a la guerra. || Many men have gone to war.
+- ¿Puedes explicar esto de nuevo? || Can you explain this again?
+- Yo estaba limpiando mi portátil. || I was cleaning my laptop.
+- Sara y Juan, ¡trabajen ahora, por favor! || Sara and Juan, work now, please!
+- En realidad, soy ingeniero de software || Actually ,I'm a software engineer.
+- Por cierto, me gustas! || By the way, i like you.
+- Mi hermana quiere ganar más dinero en su trabajo porque va a tener un bebé. || My sister wants to earn more money at her job because she is going to have a baby.
+- El actor estaba leyendo el periódico. || The actor was reading the newspaper.
+- ¿Recuerdas al actor de esa película? Lo vi ayer en la empresa. || Do you remember the actor from that movie? I saw him yesterday at the company.
+- De verdad? Que estaba haciendo ahi? || Really? What he was doing there?
+- ¿Qué estaban haciendo los clientes nuevos? || What were the new clients doing?
+- ¿Los recepcionistas hablaban sobre mí? ¿Qué estaban diciendo? || Do receptionists talk about me? What were they saying?
+- En la computadora tengo unos documentos que necesito en papel. ¿Tenemos una impresora? || On the computer I have some documents that I need on paper. Do we have a printer?
+- Yo me desperté temprano esta mañana. || I woke up early this morning.
+- ¡Guau! Tú puedes escribir muy rápido en el teclado de la computadora. ||Wow! You can type very fast on the computer keyboard.
+- ¿En qué departamento trabajabas? || What department do you work in?
+- El nuevo conductor maneja muy bien el autobús de la empresa. || The new driver handles the company bus very well.
+- Necesitamos más personal en la compañía porque tenemos mucho trabajo y necesitamos más ayuda. || We need more staff in the company because we have a lot of work and we need more help.
+- Al personal no le gustaba nada el nuevo jefe del departamento. || The staff did not like the new boss of the department at all.
 - 
