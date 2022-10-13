@@ -127,4 +127,23 @@
 - ¿Qué consejo vas a darme? || what advice are you going to give me?
 - Tengo las cometas y te las voy a traer mañana. || I have the kites and I'm going to bring them to you tomorrow.
 - Esa gorra es mía pero te la voy a prestar. || That hat is mine but I'm going to lend it to you.
+- nosotros navegamos por el mundo || we sailed around the world
+- Puedes darme ese calendario, voy a darte mi horario.
+- Me encantan tus dibujos, me los prestas un momento? || I love your drawings, can you lend them to me for a moment?
+- Mis compañeros no me hablan en francés. || My classmates don't talk to me in french.
+- Me tienes que dar el libro de ejercicios. || You have to give me the workbook.
+- Esto es bastante difícil. || This is quite difficult.
+- Ellos han trabajado en los parques nacionales. || They have worked at national parks.
+- Mi compañero me habla en español. || My classmate talks to me in spanish.
+- Me gusta este dibujo y te lo voy a dar. || I like this drawing and I'm going to give it to you.
+- Tengo que comprarte un nuevo calendario. || I have to buy you a new calendar.
+- ¿Por qué no le das tu regla? || Why don't you give her your ruler?
+- Regla || rule
+- Regalo || Gift
+- ¿Me vas a decir la verdad? || Are you going to tell me the truth?
+- Me gusta ese rompecabezas, ¿me lo das un momento? || I like that puzzle, can you give it to me for a moment?
+- Has estado aquí antes? || Have you been here before?
+- He estado ahí antes || I have been there before.
+- El rompecabezas es mío y tienes que traérmelo. || The puzzle is mine and you have to bring it to me.
+- Tengo hambre, yo no he comido todavía, ¿ tu has comido algo? || I'm hungry, I haven't eaten yet, have you eaten something?
 - 
