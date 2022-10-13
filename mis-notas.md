@@ -173,4 +173,15 @@
 - El nuevo conductor maneja muy bien el autobús de la empresa. || The new driver handles the company bus very well.
 - Necesitamos más personal en la compañía porque tenemos mucho trabajo y necesitamos más ayuda. || We need more staff in the company because we have a lot of work and we need more help.
 - Al personal no le gustaba nada el nuevo jefe del departamento. || The staff did not like the new boss of the department at all.
-- 
+- ¿Por qué no quieres decirme las respuestas de tu examen? Yo puedo decirte las mías. || Why don't you want to tell me the answers to your exam? I can tell you mine?
+- Respuestas || Answers.
+- Preguntas || Qusetions.
+- Mis colegas están pidiendo un descanso. || My colleagues are asking for a break.
+- ¿Ellos están hablando adentro? || Are they talking inside?
+- Ella dibujaba cuando la maestra le habló. || She was drawing when the teacher spoke to her.
+- Ellos almorzaban cuando Juan entro a la sala. || They were having lunch when Juan went into the living room.
+- Las gerentas están buscando los archivos. || The managers are looking for the files.
+- Este asiento es cómodo. || This seat is comfortable.
+- No voy a ir al estadio hoy. || I'm not going to the stadium today.
+- ¿Viajan por tren o por coche? || Are you traveling by train or by car? 
+- Mi vecino estaba muy enfermo la semana pasada. || My neighbor was very sick last week.
