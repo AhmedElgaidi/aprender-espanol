@@ -185,3 +185,11 @@
 - No voy a ir al estadio hoy. || I'm not going to the stadium today.
 - ¿Viajan por tren o por coche? || Are you traveling by train or by car? 
 - Mi vecino estaba muy enfermo la semana pasada. || My neighbor was very sick last week.
+- Entonces, ¿tú descargaste el archivo del jefe en tu portátil o no? || So, did you download the boss file on your laptop or not?
+- No, no se que archive es, yo no lo descarque. || No, I don't know what archive it is, I didn't download it.
+- La fotógrafa de nuestra revista necesita una nueva. || Our magazine photographer needs a new camera.
+- La compañía donde trabajo tiene un avión y su propio piloto para poder viajar lejos. || The company where I work has a plane and its own pilot to be able to travel far.
+- Mi esposa trabaja con la madera de los árboles de esta área. Ella es carpintera. || My wife works with the wood from the trees in this area. She is a carpenter.
+- Un cantante es una persona que canta de manera profesional. || A singer is a person who sings professionally.
+- Yo estaba aprendiendo física. || I was studing physics.
+- 
