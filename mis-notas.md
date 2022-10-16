@@ -192,4 +192,5 @@
 - Mi esposa trabaja con la madera de los árboles de esta área. Ella es carpintera. || My wife works with the wood from the trees in this area. She is a carpenter.
 - Un cantante es una persona que canta de manera profesional. || A singer is a person who sings professionally.
 - Yo estaba aprendiendo física. || I was studing physics.
+- Donde has vivido todos estos anos? || Where have you lived all these years?
 - 
