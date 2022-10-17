@@ -193,4 +193,23 @@
 - Un cantante es una persona que canta de manera profesional. || A singer is a person who sings professionally.
 - Yo estaba aprendiendo física. || I was studing physics.
 - Donde has vivido todos estos anos? || Where have you lived all these years?
+- La recepcionista gano más dinero este año. || the receptionist earned more money this year.
+- El actor estaba leyendo el periódico || The actor was reading the newspaper.
+- El cliente estaba saliendo del edificio || the client was leaving the building.
+- yo tenía mucho sueño. || I was very sleepy.
+- ¿Vas a pagar con cheque? || Are you going to pay with a check?
+- Los perfumes son muy caros aquí. || The perfumes are very expensive here.
+- Señora, ¿cómo quiere pagar esta falda? || Ma'am, how do you want to pay for this skirt?
+- Sí, este perfume va a ser un regalo hermoso para tu amigo. || Yes, this perfume will be a beautiful gift for your friend.
+- ¿Cómo quieres pagar, con tarjeta o en efectivo? || How do you want to pay, with a card or in cash?
+- Nuestro pero esta muy sucio. Necesitamos comprar jabon y un perfume especial para el. || Our dog's very dirty. We need to buy soap and a special perfume for him.
+- Me lo llevo ahora. || I'm taking it now.
+- Nosotras somos vendedoras. || we are salespeople.
+- Ellos comen aquí a menudo. || They eat here often.
+- Estos perfumes son caros pero me los llevo. || These perfumes are expensive but I'll take them.
+- ¡Los aretes que tienes en tus orejas son muy bonitos! || The earrings you have in your ears are very beautiful.
+- Ellos abren la caja. || They open the box.
+- ¿A qué hora abren la tienda? Podemos ir temprano a ver zapatos. || What time does the store open? We can go early to see shoes.
+- Ellas deciden probarse los pantalones. || They decide to try on the pants.
+- Decidan pronto porque estas carteras son las últimas a este precio. || Decide soon because these bags are the last at this price.
 - 
