@@ -212,4 +212,16 @@
 - ¿A qué hora abren la tienda? Podemos ir temprano a ver zapatos. || What time does the store open? We can go early to see shoes.
 - Ellas deciden probarse los pantalones. || They decide to try on the pants.
 - Decidan pronto porque estas carteras son las últimas a este precio. || Decide soon because these bags are the last at this price.
+- Cuando compras dos camisetas, recibes una camiseta gratis. Solo tienes que pagar dos. || When you buy two t-shirts, you get one free t-shirt. You only have to pay for two.
+- Esto es gratis? || Is this for free?
+- ¿Vamos ahora a la tienda o van ustedes mañana? || Are we going to the store now or are you going tomorrow?
+- Creo que es un poco tarde ahora. Vamos mañana. || I think it's a little late now. Let's go tomorrow.
+- Vayan a comprar el regalo para Lin a esa tienda tan elegante. || Go, buy Lin's gift at that fancy store.
+- No se, me parece demasiado formal para lin || I don't know, to me, it looks too formal for Lin.
+- En esa tienda, hacen camisetas ecológicas. ¿Compramos una? || In that store, they make ecological t-shirts. Shall we buy one?
+- Señor, ¿cuál quiere, el brazalete rojo o el azul? || Sir, which do you want, the red bracelet or the blue one?
+- Señora, ¿cuál quiere, el pijama blanco o el verde? || Ma'am, which do you want, the white pajamas or the green ones?
+- Esta tienda es muy elegante. Aquí mis jefes compran muchas cosas. || This store is very elegant. Here my bosses buy many things.
+- ¡Jorge y Julio, coman con el tenedor! || Jorge and Julio, eat with the fork!
+- ¡Qué día! Olvidé hacer una presentación, un colega rompió la impresora y llegué tarde a una reunión. || What a day! I forgot to give a presentation, a colleague broke the printer, and I was late for a meeting.
 - 
