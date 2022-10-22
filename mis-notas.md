@@ -224,4 +224,7 @@
 - Esta tienda es muy elegante. Aquí mis jefes compran muchas cosas. || This store is very elegant. Here my bosses buy many things.
 - ¡Jorge y Julio, coman con el tenedor! || Jorge and Julio, eat with the fork!
 - ¡Qué día! Olvidé hacer una presentación, un colega rompió la impresora y llegué tarde a una reunión. || What a day! I forgot to give a presentation, a colleague broke the printer, and I was late for a meeting.
+- Niños, ¡hagan eso ahora! || Children, do that now!
+- Señores, beban estos vinos. || Gentlemen, drink these wines.
+- Chicos, ¡coman lentamente! || Kids, eat slowly!
 - 
