@@ -231,4 +231,13 @@
 - ¡El bebé va a nacer ahora! || The baby is going to be born now!
 - Tienes que ir al hospital muy rápidamente. || You have to go to the hospital very quickly.
 - El bebé necesita mucho cuidado. || The baby needs a lot of care.
-- 
+- Nosotros queremos vernos elegantes. || We want to look elegant.​
+- Tú te ves mal hoy. || You look bad today.
+- ¿Tú qué hacías en las vacaciones de verano? || What did you use to do on summer vacation?
+- Yo veía a mis abuelos los domingos. || I used to see my grandparents on Sundays.
+- Veíamos a mi hermano jugar al fútbol americano. || We used to see my brother play American football
+- Veíamos muchas películas divertidas. || We used to see a lot of funny movies.
+- No había muchos juguetes en mi casa. || There weren't a lot of toys in my house.
+- Cuando era niño, yo veía muchas películas. || When I was a child, I used to see a lot of movies.​
+- ¿Veías a tu familia de México? || Did you use to see your family from Mexico?​
+
