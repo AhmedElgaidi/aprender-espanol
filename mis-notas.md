@@ -40,7 +40,7 @@
 - Nadie esta en peligor || No one is in danger.
 - El obrero ha apprendido mucho de su jefe || The worker has learned a lot from his boss.
 - El no ha aprendido eso todavia || He hasn't learned that yet.
-- Las obreras van a trabajar mucho este mes || The workers are going  to work a lot this month.
+- Las obreras van a trabajar mucho este mes || The workers are going to work a lot this month.
 - Roberto ha aprendido unas palabras en espanol hoy. yo he aprendido oraciones con Duolingo || Roberto has learned many words in Spanish today. I have learned sentences with Duolingo.
 - quiero montar ese caballo salvaje || I want to ride that wild horse.
 - Dos policias han ido a buscar al oso. Toda la aldea tiene miedo || Two police officers have been looking for a bear. All the village are afriad.
@@ -69,7 +69,7 @@
 - El recepcionista estaba aprendiendo sobre el trabajo. || The receptionist was learning about the job.
 - El recepcionista hablaba muy alto y todo el mundo lo miraba. || the receptionist was talking very loud and everybody was looking at.
 - En serio? Y que estaba diciendo? || Are you serious? And what was she saying?
-- La jefa estaba comiendo con los clientes. || The boss was eating with  the clients.
+- La jefa estaba comiendo con los clientes. || The boss was eating with the clients.
 - Cuando entré, los clientes estaban en mi oficina. || When i came in, the clients were in my office.
 - Que estaban haciendo aqui? Quieren hablar contigo? || What were they doing here? Did they want to speak with you?
 - Pienso que deberías trabajar más horas. || I think that you should work more hours.
@@ -183,7 +183,7 @@
 - Las gerentas están buscando los archivos. || The managers are looking for the files.
 - Este asiento es cómodo. || This seat is comfortable.
 - No voy a ir al estadio hoy. || I'm not going to the stadium today.
-- ¿Viajan por tren o por coche? || Are you traveling by train or by car? 
+- ¿Viajan por tren o por coche? || Are you traveling by train or by car?
 - Mi vecino estaba muy enfermo la semana pasada. || My neighbor was very sick last week.
 - Entonces, ¿tú descargaste el archivo del jefe en tu portátil o no? || So, did you download the boss file on your laptop or not?
 - No, no se que archive es, yo no lo descarque. || No, I don't know what archive it is, I didn't download it.
@@ -227,4 +227,8 @@
 - Niños, ¡hagan eso ahora! || Children, do that now!
 - Señores, beban estos vinos. || Gentlemen, drink these wines.
 - Chicos, ¡coman lentamente! || Kids, eat slowly!
+- ¿Ya nació el bebé? || Has the baby been born yet?
+- ¡El bebé va a nacer ahora! || The baby is going to be born now!
+- Tienes que ir al hospital muy rápidamente. || You have to go to the hospital very quickly.
+- El bebé necesita mucho cuidado. || The baby needs a lot of care.
 - 
