@@ -240,4 +240,15 @@
 - No había muchos juguetes en mi casa. || There weren't a lot of toys in my house.
 - Cuando era niño, yo veía muchas películas. || When I was a child, I used to see a lot of movies.​
 - ¿Veías a tu familia de México? || Did you use to see your family from Mexico?​
-
+- El cerebro está en la cabeza y lo usamos para pensar y procesar información. || The brain is in the head and we use it to think and process information.
+- El doctor dijo que necesito un vendaje en la pierna. ¡Me duele mucho! || The doctor said I need a bandage on my leg. It hurts me a lot!
+- Tienes que usar este vendaje. || You have to use this bandage
+- El bebé va a nacer pronto. || The baby is going to be born soon.
+- Estoy muy molesta. ¡Te esperé dos horas y no viniste! || I am very upset/ annoyed. I waited for you two hours and you didn't come!
+- El hospital estaba muy alejado. No caminamos, fuimos en carro || The hospital was very far away. We didn't walk, we went by car
+- alejado/ esta muy lejo || far away.
+- Este dolor de espalda es horrible. || This back pain is horrible.
+- Eso no es muy usual. || This isn't very normal
+- ¿Es usual tener dolor de cabeza cuando hace calor? || Is it usual to have a headache when it's hot?
+- Si, a veces. Deberias descansar un poco || Yes, sometimes. You should rest a little.
+- Ese tipo de dolor, no es muy usual || That type of pain isn't very normal/ usual.
