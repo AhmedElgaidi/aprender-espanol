@@ -252,3 +252,16 @@
 - ¿Es usual tener dolor de cabeza cuando hace calor? || Is it usual to have a headache when it's hot?
 - Si, a veces. Deberias descansar un poco || Yes, sometimes. You should rest a little.
 - Ese tipo de dolor, no es muy usual || That type of pain isn't very normal/ usual.
+- Estoy triste. Mi perro está gravemente enfermo y puede morir. || I'm sad. My dog is seriously ill and may die.
+- Tenemos que ir al hospital rápidamente. ¡No quiero morir! || We have to go to the hospital quickly. I don't want to die!
+- Para mí, hacer ejercicio no es difícil. Yo lo puedo hacer fácilmente. || For me, exercising is not difficult. I can do it easily.
+- ¡Auxilio! ¡Necesitamos un médico urgente, por favor! || Help! We need an urgent doctor, please!
+- Ella puede caerse muy fácilmente. || She can fall very easily.
+- Cuando regresé de vacaciones, las plantas no tenían agua y estaban muertas. || When I came back from vacation, the plants had no water and were dead.
+- Junior está en forma porque hace ejercicio y come muy saludable. || Junior is fit/ in shape because he exercises and eats very healthy.
+- Esos animales están muertos. || Those animales are dead.
+- Nosotros vamos a reírnos mucho. || we are going to laugh a lot
+- No quiero comer mucho hoy porque me siento mal. || I don't want to eat a lot today because i'm feeling sick
+- Si, te ves horrible. Te preparo un te? || Yes, you look horrible. Should I make you some tea?
+- Reirse mucho es bueno para la salud. || Laughing a lot is good for your health.
+- 
