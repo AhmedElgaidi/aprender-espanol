@@ -264,4 +264,11 @@
 - No quiero comer mucho hoy porque me siento mal. || I don't want to eat a lot today because i'm feeling sick
 - Si, te ves horrible. Te preparo un te? || Yes, you look horrible. Should I make you some tea?
 - Reirse mucho es bueno para la salud. || Laughing a lot is good for your health.
+- ¿Es verdad que Drácula bebe sangre? || Is it true that Dracula drinks blood?
+- Tengo que hacer cambios en la comida. Tengo mucho colesterol y diabetes. || I have to make changes to the food. I have high cholesterol and diabetes.
+- Tuve muchos cambios en mi vida. || I had many changes in my life
+- ¡Necesito un médico inmediatamente! ¡Es una emergencia! || I need a doctor immediately! Is an emergency!
+- Ana quiere cepillarse el pelo. ¿Dónde está su peine? || Ana wants to brush her hair. Where is her comb?
+- Yo nunca me olvido de beber cerveza. || I never forget to drink beer.
+- Ella se olvida de beber mucha agua. || She forgets to drink a lot of water
 - 
