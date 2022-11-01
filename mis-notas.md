@@ -271,4 +271,5 @@
 - Ana quiere cepillarse el pelo. ¿Dónde está su peine? || Ana wants to brush her hair. Where is her comb?
 - Yo nunca me olvido de beber cerveza. || I never forget to drink beer.
 - Ella se olvida de beber mucha agua. || She forgets to drink a lot of water
+- El niño nació gravemente enfermo. || The child was born seriously ill.
 - 
