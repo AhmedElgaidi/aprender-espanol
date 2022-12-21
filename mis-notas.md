@@ -276,3 +276,13 @@
 
 - Ella tenía una cita con un payaso. || she had a date with a clown.
 - Por que no jugabas el fotbul americano? || Why didn't you play american football.
+- No quiero compartir este pastel contigo || I don't want to share this cake with you.
+- Los payasos tocaban la bateria || the clowns were playing the drums.
+- ¿Con quién tuviste la cita? || Who did you have the date with?
+- Veíamos a mi hermano jugar al fútbol americano. || We used to see my brother play American football.
+- Las ninas veian a los payasos con los animales en el circo. || The girls used to watch the clowns with the animals at the circus.
+- Quiero compartir este dia contigo || I want to share this day with you.
+- La niña no quería compartir sus juguetes. || The girl didn't want to share her toys.
+- Nosotros nunca veiams a nuestros padres. || We never used to see our parents.
+- Los niños veían a sus amigos en las fiestas. || The children used to see their friends at the parties.
+- 
