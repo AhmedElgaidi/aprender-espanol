@@ -272,3 +272,7 @@
 - Yo nunca me olvido de beber cerveza. || I never forget to drink beer.
 - Ella se olvida de beber mucha agua. || She forgets to drink a lot of water
 - El niño nació gravemente enfermo. || The child was born seriously ill.
+
+
+- Ella tenía una cita con un payaso. || she had a date with a clown.
+- Por que no jugabas el fotbul americano? || Why didn't you play american football.
