@@ -285,4 +285,11 @@
 - La niña no quería compartir sus juguetes. || The girl didn't want to share her toys.
 - Nosotros nunca veiams a nuestros padres. || We never used to see our parents.
 - Los niños veían a sus amigos en las fiestas. || The children used to see their friends at the parties.
-- 
+- Había algo extraño en mi armario. || There was something strange in my closet.
+- Yo tenía un póster de mi cantante favorito. || Yo tenía un póster de mi cantante favorito.
+- ¿Con quién compartías tu dormitorio, Carlos? || Who did you share your bedroom with, Carlos?
+- Cuando era niño, nunca habia zanahorias en la nevera porque era alérgico. || When I was a boy, there were never carrots in the fridge because I was allergic.
+- Mientras yo jugaba, mi mama cocinaba || While I played, my mom would cook.
+- Ella patinaba todos los domingos en el parque. || She used to skate every Sunday in the park.
+- Mientras yo jugaba, mi hermana estudiaba. || While I played, my sister would study.
+- Mi mama siempre preparaba pastel de zanahoria. || my mom used to prepare carrot cake.
