@@ -293,3 +293,5 @@
 - Ella patinaba todos los domingos en el parque. || She used to skate every Sunday in the park.
 - Mientras yo jugaba, mi hermana estudiaba. || While I played, my sister would study.
 - Mi mama siempre preparaba pastel de zanahoria. || my mom used to prepare carrot cake.
+- Prefería usar los patines porque la patineta era más difícil. || I preferred to use skates because the skateboard was more difficult.
+- 
