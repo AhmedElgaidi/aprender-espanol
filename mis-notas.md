@@ -294,4 +294,12 @@
 - Mientras yo jugaba, mi hermana estudiaba. || While I played, my sister would study.
 - Mi mama siempre preparaba pastel de zanahoria. || my mom used to prepare carrot cake.
 - Prefería usar los patines porque la patineta era más difícil. || I preferred to use skates because the skateboard was more difficult.
+- No tengo euros pero tengo dólares. ||  I don't haev Euros, but I have dollars
+- Tenemos que ahorrar para nuestras vacaciones. || We have to save for our vacation.
+- Hoy vamos a tener un día cálido. || Today we're going to have a warm day.
+- ¿Qué necesitas empacar para tus vacaciones? || What do you need to pack for your vacation?
+- ¿Dónde puedo alquilar un coche? || Where can i rent a car?
+- Ella suena con ir a Francia. || She dreams about going to France.
+- El payaso jugaba con los globos. || The clown was playing with the balloons.
+- ¡Qué profundo es el océano! || How deep is the ocean!
 - 
