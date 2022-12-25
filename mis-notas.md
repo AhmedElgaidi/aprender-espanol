@@ -302,4 +302,16 @@
 - Ella suena con ir a Francia. || She dreams about going to France.
 - El payaso jugaba con los globos. || The clown was playing with the balloons.
 - ¡Qué profundo es el océano! || How deep is the ocean!
+- Sonamos con viajar a una playa en Cuba. ¡Nos encantaría ir! || We dream of traveling to a beach in Cuba. We'd love to go!
+- Ella miraba la tele mientras yo estudiaba. || she was watching the tv while i was studying
+- no me interesa patinar || I'm not interested in skating
+- ¿Tú veías películas de aventura? || Did you use to see adventure movies?
+- ¿Por qué tenías una ceta con mi novia? || Why did you have a date with my girlfriend?
+- ¿Cuánto cuesta la gasolina? || How much does gas cost?
+- Nos encantaría un año en otro país. || We would love another year in another country.
+- El se va en cinco minutos || He's leaving in five minutes.
+- Ellos veían películas casi todas las noches. || They used to see movies almost every night.
+- Sería una buena idea viajar por avión. || It would be a good idea to travel by plane.
+- Yo estudiaba y leugo veía a mis amigos. || I used to study and later I used to see my friends.
+- Veíamos a mi hermano jugar al futbol americano. || We used to see my brother play American football.
 - 
