@@ -314,4 +314,18 @@
 - Sería una buena idea viajar por avión. || It would be a good idea to travel by plane.
 - Yo estudiaba y leugo veía a mis amigos. || I used to study and later I used to see my friends.
 - Veíamos a mi hermano jugar al futbol americano. || We used to see my brother play American football.
+- Tengo dos recibos || I have two receipts.
+- Nada es gratis en esta vida. || Nothing is free in this life
+- Jaime y yo ahorramos durante años y ahora tenemos mas dinero para viajar. || Jaime and I have saved for years, and now we have more money for traveling.
+- No mamá, no nos vamos a caer. || No mom, we aren't going to fall.
+- No quiero ir a ese río profundo porque no sé nadar || I don't want to go to that deep river because I can't swim.
+- No, gracias, no los tomaré. || No, thank you, I won't take them.
+- Por la noche, a menudo veiamos películas de terror. || At night, we would often watch horror movies.
+- Sí, esos zapatos me gustan más a mí, pero ¿y tú? ¿cuales quieres? || Yes, I like those shoes more, but what about you? Which ones do you want?
+- Nosotros haciamos la tarea todas las noches. || We used to do homework every night.
+- Los payasos patinaban con nosotras. || The clowns were skating with us.
+- Necesito cambiar mi reserva. || I need to change my reservation
+- Ellas van a la nueva tienda. || They go to the new store.
+- Somos vendedores. || We're salespeople.
+- Nosotras nos vemos bien || We look good.
 - 
