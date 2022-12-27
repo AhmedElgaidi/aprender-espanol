@@ -328,4 +328,18 @@
 - Ellas van a la nueva tienda. || They go to the new store.
 - Somos vendedores. || We're salespeople.
 - Nosotras nos vemos bien || We look good.
+- El hospital está muy alejado. || The hospital is very far away.
+- Dicen que las manzanas son buenas para el cerebro. || They say that apples are good for the brain.
+- Entonces, debrias comer una manzana cada dia. || Then, you should eat an apple every day!
+- Mi tío estudia la actividad del cerebro de las personas. || My uncle studies people's brain activity.
+- ¿Por qué necesito este vendaje? || Why do I need this bandage?
+- Mi bebé va a nacer en este país. || My baby is going to be born in this country.
+- Ella estudia el cerebro de los animales. || She studies the brain of animals.
+- Ella tiene un vendaje en el brazo. || She has a bandage on her arm.
+- Ella tuvo un accidente horrible. || She had a horrible accident.
+- Ellos se sienten muy molestos hoy. || They feel very upset today.
+- El hospital estaba muy alejado y no teníamos mucho tiempo. || The hospital was very far away and we didn't have much time.
+- ¿Es usual tener dolor de cabeza cuando hace calor? || Is it usual to have a headache when it's hot?
+- Si, aveces. Debrias descansar un poco || Yes, sometimes. You should rest a little.
+- La oficina del médico está muy alejada. || The doctor's office is very far away.
 - 
