@@ -349,4 +349,12 @@
 - A mi perro le gusta verse en el espejo. || My dog likes to see himself in the mirror.
 - Eso puede ocurrir muy facilimente. || That could happen very easily.
 - Mi primo está gravemente enfermo, pero la médica dice que él va a estar mejor pronto. || My cousin is seriously ill, but the doctor says he's going to be better soon.
+- No, no voy a olvidarme de eso. || No, I'm not going to forget that.
+- Me gusta reírme contigo. ¡No me duele más la cabeza! || I like to laugh with you. My head doesn't hurt anymore!
+- Te ves mejor! Tienes que reirte mas a menudo || You look better! You have to laugh more often.
+- Reírse mucho es bueno para la salud. || Laughing a lot is good for your health.
+- Tú no puedes olvidarte de mi teléfono. || You can't forget my phone.
+- Esa planta está muerta. || That plant is dead.
+- Comer mucho no es saludable. || Eating a lot isn't healthy.
+- Esos animales están muertos. || Those animals are dead.
 - 
