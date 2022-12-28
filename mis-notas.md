@@ -342,4 +342,11 @@
 - ¿Es usual tener dolor de cabeza cuando hace calor? || Is it usual to have a headache when it's hot?
 - Si, aveces. Debrias descansar un poco || Yes, sometimes. You should rest a little.
 - La oficina del médico está muy alejada. || The doctor's office is very far away.
+- Por favor, esta señora está gravemente enferma, ¡auxilio! || Please, this lady is seriously ill, help!
+- Soy enfermero, yo la voy a ayudar. || I'm nurse. I'll help her.
+- Tienes que ir al hospital muy rápidamente. || You have to go to the hospital very quickly.
+- No mamá, no vamos a caernos. || No Mom, we're not going to fall.
+- A mi perro le gusta verse en el espejo. || My dog likes to see himself in the mirror.
+- Eso puede ocurrir muy facilimente. || That could happen very easily.
+- Mi primo está gravemente enfermo, pero la médica dice que él va a estar mejor pronto. || My cousin is seriously ill, but the doctor says he's going to be better soon.
 - 
