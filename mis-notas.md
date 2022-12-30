@@ -357,4 +357,11 @@
 - Esa planta está muerta. || That plant is dead.
 - Comer mucho no es saludable. || Eating a lot isn't healthy.
 - Esos animales están muertos. || Those animals are dead.
+- Ella neceista mucha sangre || She needs a lot of blood.
+- Mi es largo y necesita muchos cuidados. Yo lo cepillo todos los dias. || My hair is long and needs a lot of care. I brush it every day.
+- Mi médico está loco. ¡No voy a hacer tantos cambios en mi dieta! || My doctor is crazy. I'm not going to make so many changes to my diet!
+- Bueno puede ser buena idea hacer algun cambio || Well, it might be a good idea to make some changes.
+- Mi prima no vino porque es alérgica al pelo de mi gato || My cousin didn't come because she's allergic to my cat's fur.
+- Hay muchos cambios en el trabajo. || There are a lot of changes at work.
+- Li siempre se olvida de su tipo de sangre. ¿Cómo puede alguien olvidarse de algo tan importante? || Li always forgets her blood type. How can someone forget about something so important?
 - 
