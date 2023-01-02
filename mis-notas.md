@@ -364,4 +364,16 @@
 - Mi prima no vino porque es alérgica al pelo de mi gato || My cousin didn't come because she's allergic to my cat's fur.
 - Hay muchos cambios en el trabajo. || There are a lot of changes at work.
 - Li siempre se olvida de su tipo de sangre. ¿Cómo puede alguien olvidarse de algo tan importante? || Li always forgets her blood type. How can someone forget about something so important?
-- 
+- Van a reparar el techo de la casa. Entra mucha agua cuando llueve. || They are going to repair the roof of the house. Lots of water gets in when it rains.
+- La casa necesita un techo nuevo. || The house needs new roof.
+- Terminé de lavar los pisos. ¡Se ven muy limpios! || I finished washing the floors. They look very clean!
+- ¡No puedo vestirme tan rápido! || I can't get dressed that rapid.
+- Los estantes no están limpios. || The shelves are not clean.
+- Tu ya terminaste de estudiar? || Have you finished studying yet?
+- ¿Por qué no están vestidos todavía? || Why aren't they dressed yet?
+- ¿Tú acabas de cancelar la fiesta? || Did you just cancel the party?
+- Las niñas ya están vestidas. || The girls are already dressed.
+- Cancelaste los boletos para el espectáculo de hoy? || Did you cancel the tickets for today's show?
+- Todavia no llame. Cual es el numero del teatro? || I haven't called yet. What's the theater's number?
+- Nosotros acabamos de limpiar los estantes || We just cleaned the shelves.
+- Tienes que vestirte en cinco minutos. || You have to get dressed in five minutes.
