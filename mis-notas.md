@@ -377,3 +377,13 @@
 - Todavia no llame. Cual es el numero del teatro? || I haven't called yet. What's the theater's number?
 - Nosotros acabamos de limpiar los estantes || We just cleaned the shelves.
 - Tienes que vestirte en cinco minutos. || You have to get dressed in five minutes.
+- Estoy muy cansado y no quiero pararme. Quiero quedarme en este sofá. || I'm very tired and I don't want to stop. I want to stay on this sofa.
+- Hay que lavar el piso del pasillo. || One must wash the hall floor.
+- Hace mucho calor. ¿Puedes encender el ventilador? || It is very hot. Can you turn on the fan?
+- ¿Ya comiste la tortilla? || Did you already eat the omelet?
+- ¡No puedo vestirme tan rápido! || I can't get dressed that fast!
+- ¿Por qué no vamos a vestirnos para el baile? || Why don't we go get dressed for the dance?
+- Tu puedes pararte, por favor ||Can you stand up, please?
+- ¿Y tú por qué estás gritando? || And why are you shouting?
+- Ellos no pueden pararse || They can't stand up
+- 
