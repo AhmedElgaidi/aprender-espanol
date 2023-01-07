@@ -386,4 +386,4 @@
 - Tu puedes pararte, por favor ||Can you stand up, please?
 - ¿Y tú por qué estás gritando? || And why are you shouting?
 - Ellos no pueden pararse || They can't stand up
-- 
+- Te voy a enseñar cómo se hace. || I'll teach you how it's done.
