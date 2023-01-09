@@ -394,3 +394,5 @@
 - Ella está vestida de negro. || She's dressed in black.
 - Yo ya sequé los platos. || I already dried the dishes.
 - We worked a lot and we don't want to stand up. || Trabajamos mucho y no queremos levantarnos.
+- Ella acaba de terminar de comer || She just finished eating.
+- 
