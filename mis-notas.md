@@ -387,3 +387,10 @@
 - ¿Y tú por qué estás gritando? || And why are you shouting?
 - Ellos no pueden pararse || They can't stand up
 - Te voy a enseñar cómo se hace. || I'll teach you how it's done.
+- Muchas personas estuvieron gravemente enfermos después de esa cena. || Many people were seriously ill after that dinner.
+- ¡Abre el portón! || Open the gate
+- Queremos pintar el techo de la casa. || We want to paint the roof of the house.
+- Yo termine mi tarea hace cinco minutos. || I finished my homework five minutes ago.
+- Ella está vestida de negro. || She's dressed in black.
+- Yo ya sequé los platos. || I already dried the dishes.
+- We worked a lot and we don't want to stand up. || Trabajamos mucho y no queremos levantarnos.
