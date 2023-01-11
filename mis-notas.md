@@ -395,4 +395,11 @@
 - Yo ya sequé los platos. || I already dried the dishes.
 - We worked a lot and we don't want to stand up. || Trabajamos mucho y no queremos levantarnos.
 - Ella acaba de terminar de comer || She just finished eating.
+- Este coche usa mucha gasolina. || This car uses a lot of gas.
+- No quiero conducir en esta carretera. || I don't want to drive on this highway.
+- ¿Necesito pagar con euros? || Do I need to pay with euros?
+- Creo que me voy el sábado. || I think that I'm leaving on Saturday.
+- ¿Cuando te vas? || When are you leaving?
+- ¿Por qué no usas el mapa? || Why do you not use the map?
+- El aeropuerto está cerca de la autopista. || The airport is close to the highway.
 - 
